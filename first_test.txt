@@ -3,3 +3,6 @@ First test in Github...
 Some code blah...
 
 This line is new for second commit test.
+
+This line is new for Third commit, but will go back to second version after commiting
+testing revision..
